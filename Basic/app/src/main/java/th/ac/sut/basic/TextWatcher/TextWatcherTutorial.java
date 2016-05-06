@@ -1,4 +1,4 @@
-package th.ac.sut.basic;
+package th.ac.sut.basic.TextWatcher;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +8,9 @@ import android.text.TextWatcher;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class TextWatcherTest extends AppCompatActivity {
+import th.ac.sut.basic.R;
+
+public class TextWatcherTutorial extends AppCompatActivity {
 
     private EditText editText;
     private TextView textView;
